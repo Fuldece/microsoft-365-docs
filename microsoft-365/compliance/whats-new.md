@@ -60,7 +60,7 @@ Whether it be adding new solutions to the [Microsoft Purview compliance portal](
     - **New article**: [Compliance Manager glossary of terms](compliance-manager-glossary.md) explains new and existing terms and concepts.
 - **General availability (GA)**: New configuration connectors for building assessments that cover non-Microsoft services.
     - **New article**: [Working with connectors in Compliance Manager](compliance-manager-connectors.md) details how to set up and use connectors for building assessments for non-Microsoft services.
-    - **New article**: [Salesforce setup for Compliance Manager connector](compliance-manager-connectors-salesforce.md) explains the seupt process for using the Salesforce connector.
+    - **New article**: [Salesforce setup for Compliance Manager connector](compliance-manager-connectors-salesforce.md) explains the setup process for using the Salesforce connector.
     - **New article**: [Zoom setup for Compliance Manager](compliance-manager-connectors-zoom.md) explains the setup process fo using the Zoom connector.
     - Update to [Build and manage assessments](compliance-manager-assessments.md) about incorporating connectors for non-Microsoft services.
 - **Assigning user roles per regulatory template**: New capability allowing you to provide scoped access to any assessment built for a specific regulation. Updated pages include:
